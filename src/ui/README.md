@@ -14,6 +14,8 @@ This service provides the frontend for the retail store, serving the HTML UI and
 
 The following environment variables are available for configuring the service:
 
+test added
+
 | Name                              | Description                                                                                            | Default                 |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------- |
 | `PORT`                            | The port which the server will listen on                                                               | `8080`                  |
